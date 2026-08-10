@@ -135,5 +135,3 @@ Farklı şirketlerin (farklı Domain veya Forest'ların) birbirlerinin kaynaklar
 
 **Güvenlik Vizyonu (Attack Paths):**
 Güven ilişkileri bir siber güvenlikçi için **yatay hareket rotalarıdır.** Eğer devasa ve çok güvenli bir holding (Domain A), küçük ve güvenliği zayıf bir taşeron firmayla (Domain B) çift yönlü trust kurarsa; saldırgan önce zayıf olan B firmasını hackler, ardından bu "Güven Köprüsünü" kullanarak A holdinginin kalbine sızar (Trust Exploitation). Güven sınırları, güvenlik zafiyetlerinin en çok sızdığı noktalardır.
-
-![Trust İlişkileri](gorsel_linki_buraya_gelecek) 
